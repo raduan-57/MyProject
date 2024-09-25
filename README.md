@@ -1,25 +1,27 @@
-  # Fashion World
+# Fashion World
 
-Fashion World aims to create an online shopping experience that is easy to use, personalized, and helps users make better fashion choices. We also want to build a community where people can share their styles and fashion tips.
+Deen Essentials is an e-commerce platform that specializes in providing Islamic 
+products such as prayer rugs, perfumes, Qur'an, Hadith books, and traditional 
+Islamic attire like Punjabi clothing.
 
-For Company: Any small company that does not have an online presence can sign up on our platform by providing the required documents. They will then be able to showcase their products to a large number of online customers, which can increase their profits and popularity. Larger companies are also welcome to join and expand their reach.
-
-For Shoppers: Users can browse products without the need to sign up. However, if they wish to make a purchase, they will need to create an account to complete their order. This platform offers shoppers access to a wide range of companies and products, giving them plenty of options to choose from and helping them stay updated with the latest fashion trends.
-
-Fashion World is committed to providing a space where both businesses and shoppers can connect, making it easier for everyone to stay in touch with current fashion.
 ## Features
+1. User Registration and Authentication
+2. Product Catalog
+3. Shopping Cart and Checkout
+4. User-Friendly Design
+5. Trending Tab
+6. Customer Support
+7. Order History
+8. Special Offers and Discounts
+9. Wishlist and Save for Later
+10. Security and Privacy
+11. Feedback and Reviews
+12. Sustainability and Ethical Practices
+13. Accessibility Features
 
-- Design: Easily browse through categories, collections, and trends with a clean, user-friendly layout
-- User Registration & Login: Create an account, log in and manage user profiles.
-- Sign_Up for Businesses: Any company can sign up and display their products.
-- Product Pages: Detailed product descriptions, multiple images, and size charts.
-- Shopping Cart: Users can add items to their cart, view total costs, and proceed to checkout seamlessly.
-- Order Management: Track orders, view order history, and receive updates on shipping.
-- Sustainable Shopping: Highlight sustainable brands and products for eco-conscious shoppers.
-- Secure Checkout: Multiple payment options for convenience and security.
-- About Us:Everybody knows about us with details information.
-- Contruct Us:Provide contruct information & track location.
-- Responsive Design: Optimized for devices.
+
+
+
 
 ## Demo Video
 
